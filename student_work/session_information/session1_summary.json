@@ -1,14 +1,14 @@
 {
-  "group_members": "Achiraya",
+  "group_members": "achiraya",
   "section": 2,
   "group": 7,
   "fork_url": "https://github.com/horanghaeu/lab4-megalopa.git",
   "github_username_for_push": "horanghaeu",
   "model_pt": "student_work/models/sec02_group07_megalopa_yolo26n_best.pt",
   "model_onnx": "student_work/models/sec02_group07_megalopa_yolo26n_best.onnx",
-  "Precision": 0.763318805518713,
-  "Recall": 0.20539473939766315,
-  "mAP@50": 0.2418968122475969,
-  "mAP@50-95": 0.11806279451198656,
-  "Training time (seconds)": 86.03993228800005
+  "Precision": 0.9172265044992882,
+  "Recall": 0.336039580001843,
+  "mAP@50": 0.3873105622432796,
+  "mAP@50-95": 0.20054795656330074,
+  "Training time (seconds)": 107.10230618700007
 }
